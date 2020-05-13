@@ -1,4 +1,4 @@
 mvn compile
 
 mvn package
-java -jar target/adder-1.0.0.jar 
+java -jar target/app-0.0.0.jar
