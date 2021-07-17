@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.dzone.albanoj2.maven.java</groupId>
 	<artifactId>app</artifactId>
-	<version>0.0.0</version>
+	<version>0.0.1</version>
 
 	<!-- Output to jar format -->
 	<packaging>jar</packaging>
